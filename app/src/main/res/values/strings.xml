@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket counter</string>
+    <string name="six_runs">Six Runs</string>
+    <string name="four_runs">Four Runs</string>
+    <string name="single">Single</string>
+
+</resources>
